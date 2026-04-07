@@ -10,57 +10,30 @@
 
 ---
 
-<!-- 🏭 3D 数字孪生项目展示 -->
+<!-- 🏭 3D 数字孪生项目展示 — 一进来就看到 -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/🏭_FEATURED_PROJECT-3D_DIGITAL_TWIN-ff0044?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital_Twin-7b2dff?style=for-the-badge&logoColor=white" />
 
-<br/><br/>
-
-<a href="https://key-668.github.io/waste-plant-digital-twin/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=4&section=header" width="80%"/>
-</a>
+<br/>
 
 ### ⚡ 垃圾焚烧发电厂 · 3D 数字孪生管理系统
 
+<!-- 3D 效果大图预览 — 点击进入交互 -->
 <a href="https://key-668.github.io/waste-plant-digital-twin/">
-  <img src="https://img.shields.io/badge/▶_ENTER_THE_MATRIX-点击体验_3D_数字孪生-00f7ff?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d1117" />
+  <img src="./assets/digital-twin-preview.png" alt="3D Digital Twin Preview" width="100%" style="border-radius:12px;border:2px solid rgba(0,247,255,0.3);box-shadow:0 0 40px rgba(0,100,255,0.2);" />
+</a>
+
+<br/>
+
+<a href="https://key-668.github.io/waste-plant-digital-twin/">
+  <img src="https://img.shields.io/badge/👆_点击上方图片-进入_3D_交互体验-00f7ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Real--time_3D-00f7ff?style=flat-square&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Digital_Twin-7b2dff?style=flat-square&logoColor=white" />
-</td>
-</tr>
-</table>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🏭  W A S T E   P L A N T   D I G I T A L   T W I N      ║
-║   ──────────────────────────────────────────────────         ║
-║                                                              ║
-║   ▸ 实时 3D 可视化焚烧炉、汽轮机、烟气处理全流程             ║
-║   ▸ 动态数据仪表盘：功率 / 处理量 / 发电量 / 环保指标        ║
-║   ▸ 设备状态监控 + 告警系统 + 环境参数实时追踪               ║
-║   ▸ 纯前端 Three.js 实现，零依赖，一个 HTML 搞定一切        ║
-║                                                              ║
-║   👉 https://key-668.github.io/waste-plant-digital-twin/     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <a href="https://github.com/key-668/waste-plant-digital-twin">
   <img src="https://img.shields.io/badge/Source_Code-查看仓库-ff0044?style=flat-square&logo=github&labelColor=0d1117" />
@@ -69,10 +42,6 @@
   <img src="https://img.shields.io/badge/Live_Demo-在线体验-00f7ff?style=flat-square&logo=googlechrome&labelColor=0d1117" />
 </a>
 <img src="https://img.shields.io/badge/Tech-Three.js_|_WebGL_|_Pure_HTML-7b2dff?style=flat-square&labelColor=0d1117" />
-
-<a href="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=4&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=4&section=header" width="80%"/>
-</a>
 
 </div>
 
