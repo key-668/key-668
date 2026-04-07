@@ -37,7 +37,7 @@
 ## 🧬 `whoami`
 
 ```yaml
-name: 宇不逢时氏汽水
+name: 再不喝汽水
 alias: key-668
 location: Somewhere in the Matrix
 status: "Compiling dreams... ██████░░░░ 60%"
